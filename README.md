@@ -7,12 +7,12 @@ my personal awesome resources for every day learn
 
 ##### Debounce and Throttle
 
-- [x] [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/) :simple_smile: 
-- [x] [Debouncing Javascript Methods](http://unscriptable.com/2009/03/20/debouncing-javascript-methods/) :simple_smile:
+- [x] [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+- [x] [Debouncing Javascript Methods](http://unscriptable.com/2009/03/20/debouncing-javascript-methods/) 
 
 #### Redux
 
-- [x] [video: getting-started-with-redux](https://egghead.io/courses/getting-started-with-redux) :simple_smile:
+- [x] [video: getting-started-with-redux](https://egghead.io/courses/getting-started-with-redux) 
 
 
 #### Docker
