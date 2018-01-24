@@ -1,7 +1,6 @@
 # awesome-learn
 my personal awesome resources for every day learn
 
-- :simple_smile: easy to learn
 - :smiling_imp: hard to learn
 
 ## Blog
@@ -37,7 +36,7 @@ my personal awesome resources for every day learn
 - [matcha: simple benchmark tool](https://github.com/logicalparadox/matcha)
 - [pretty-error: A small tool to see node.js errors with less clutter](https://github.com/AriaMinaei/pretty-error)
 
-### Tutorial
+### tutorial
 
 #### ClojureScript
 
