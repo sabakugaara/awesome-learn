@@ -10,6 +10,11 @@ my personal awesome resources for every day learn
 - [x] [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 - [x] [Debouncing Javascript Methods](http://unscriptable.com/2009/03/20/debouncing-javascript-methods/) 
 
+##### IOC Di
+
+- [x] [依赖注入容器](https://segmentfault.com/a/1190000010978964)
+- [x] [深入理解DIP、IoC、DI以及IoC容器](http://www.cnblogs.com/liuhaorain/p/3747470.html)
+
 #### Redux
 
 - [x] [video: getting-started-with-redux](https://egghead.io/courses/getting-started-with-redux) 
