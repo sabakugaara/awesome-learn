@@ -42,6 +42,14 @@ my personal awesome resources for every day learn
 
 - [modern-cljs](https://github.com/magomimmo/modern-cljs)
 
+### tools
+
+- [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+
+### Proposal
+
+- [x] [javascript decorators](https://github.com/wycats/javascript-decorators/)
+
 ## StackOverflow
 
 - [Why the open quote and bracket for eval('(' + jsonString+ ')') when parsing json string](https://stackoverflow.com/questions/3360356/why-the-open-quote-and-bracket-for-eval-jsonstring-when-parsing-json)
