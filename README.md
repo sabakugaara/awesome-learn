@@ -22,25 +22,25 @@ my personal awesome resources for every day learn
 
 #### Docker
 
-- [ ] (gitbook: Docker 从入门到实践)(https://www.gitbook.com/book/yeasy/docker_practice/details)
+- [ ] [gitbook: Docker 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
 
 #### Vim
-- [ ] (tutorial: vimgenius)(http://www.vimgenius.com/)
+- [ ] [tutorial: vimgenius](http://www.vimgenius.com/)
 
 #### javascript
 
-- [ ] (Expressions versus statements in JavaScript)[http://2ality.com/2012/09/expressions-vs-statements.html]
+- [ ] [Expressions versus statements in JavaScript](http://2ality.com/2012/09/expressions-vs-statements.html)
 
 #### Node.js
 
 ##### Addon
 
-- [ ] (How I ported bcrypt to new N-API)[https://medium.com/@nicknaso/how-i-ported-bcrypt-to-new-n-api-d0b8c9fe6136] Related PR: [#551](https://github.com/kelektiv/node.bcrypt.js/pull/551/)
+- [ ] [How I ported bcrypt to new N-API](https://medium.com/@nicknaso/how-i-ported-bcrypt-to-new-n-api-d0b8c9fe6136) Related PR: [#551](https://github.com/kelektiv/node.bcrypt.js/pull/551/)
 
 #### ClojureScript
 
-- [ ] (Understanding Clojure's Persistent Vectors, pt. 1)[http://hypirion.com/musings/understanding-persistent-vector-pt-1]
-- [ ] (Understanding Clojure's Persistent Vectors, pt. 2)[http://hypirion.com/musings/understanding-persistent-vector-pt-2]
+- [ ] [Understanding Clojure's Persistent Vectors, pt. 1](http://hypirion.com/musings/understanding-persistent-vector-pt-1)
+- [ ] [Understanding Clojure's Persistent Vectors, pt. 2](http://hypirion.com/musings/understanding-persistent-vector-pt-2)
 
 ## Github
 
