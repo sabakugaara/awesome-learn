@@ -42,6 +42,10 @@ my personal awesome resources for every day learn
 - [ ] [Understanding Clojure's Persistent Vectors, pt. 1](http://hypirion.com/musings/understanding-persistent-vector-pt-1)
 - [ ] [Understanding Clojure's Persistent Vectors, pt. 2](http://hypirion.com/musings/understanding-persistent-vector-pt-2)
 
+#### Bash
+
+- [ ] [What is the difference between test, [ and [[](http://mywiki.wooledge.org/BashFAQ/031)
+
 ### Test
 
 - [x] [Promises in JavaScript Unit Tests: the Definitive Guide](https://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/)
