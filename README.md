@@ -44,7 +44,7 @@ my personal awesome resources for every day learn
 
 #### Bash
 
-- [ ] [What is the difference between test, [ and [[](http://mywiki.wooledge.org/BashFAQ/031)
+- [ ] [What is the difference between test, \[ and \[\[](http://mywiki.wooledge.org/BashFAQ/031)
 
 ### Test
 
