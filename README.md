@@ -86,3 +86,6 @@ my personal awesome resources for every day learn
 
 - [ ] [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) (for who has experience programming but no experience with Clojure or functional programming)
 - [ ] [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) (for who nerver programmed before)
+
+## Other
+- [x] [反模式](https://www.wikiwand.com/zh-cn/%E5%8F%8D%E9%9D%A2%E6%A8%A1%E5%BC%8F#/)
