@@ -89,3 +89,11 @@ my personal awesome resources for every day learn
 
 ## Other
 - [x] [反模式](https://www.wikiwand.com/zh-cn/%E5%8F%8D%E9%9D%A2%E6%A8%A1%E5%BC%8F#/)
+
+## Julia
+
+#### Resources
+
+- https://www.zhihu.com/question/20072632
+- https://www.zhihu.com/question/36249799
+- 中文社区 http://juliacn.com/
